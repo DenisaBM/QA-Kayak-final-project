@@ -1,19 +1,16 @@
 # QA-Kayak-Website-final-project
 - 👋 Hi, I’m @MarianaDenisaBaicu!
-- 👀 I’m interested in learning more about testing world and I’m looking to put all my knowledge and much more in a company that values the role of QA processes to deliver great products which customers enjoy using
-- 🌱 I’m currently learning Automation Testing
-- 💞️ I’m looking to work on Testing field
+- 👀 I’m interested in learning more about testing and I’m looking to put all my knowledge and much more in a company that values the role of QA processes to deliver great products which customers enjoy using
+- 💞️ I’m looking for work in the IT Testing industry
 - 📫 How to reach me denisa.baicu@gmail.com
 
-
 ## About the project
-I prepared a final project designed to evaluate the knowledge gained throughout multiple testing courses.
-This project analyzed one of the top-tier flight search engines by applying a manual testing approach in order to design and execute test cases, as well as bug reporting. 
-You will find all the necessary documents related to the testing phase such as:
-Test Strategy, Test Plan, Test Execution Results, and Sprint Reports.
+This project is designed to evaluate my knowledge gained throughout multiple testing courses.
+In this regard, I have analyzed one of the top-tier flight search engines by applying a manual testing approach in order to design and execute test cases, as well as bug reporting. 
+You will find all the necessary documents related to the testing phase such as: Test Strategy, Test Plan, Test Execution Results, and Sprint Reports.
 
 ## User Stories
-The project consists of 7 User Stories (US) available for the project, divided into two development sprints.
+The project consists of 7 User Stories (US), divided into two development sprints.
 
 - 📗 - [KYK-1](KayakWebsiteProject/KYK-1/user-story-KYK-1.pdf) - Homepage
 - 📗 - [KYK-2](KayakWebsiteProject/KYK-2/user-story-KYK-2.pdf) - Search Flights Widget
@@ -24,7 +21,7 @@ The project consists of 7 User Stories (US) available for the project, divided i
 - 📗 - [KYK-7](KayakWebsiteProject/KYK-7/user-story-KYK-7.pdf) - Flights Price Alert
 
 ## Test Cases
-To cover all of the User Stories number of 13 Test Cases (TC) were created and executed.
+13 Test Cases (TC) were created and executed to cover all of the User Stories.
 
 - 🧪 - [T1](KayakWebsiteProject/KYK-1/test-case-KYK-T1.pdf) - Homepage - Sidebar menu and basic Homepage testing
 - 🧪 - [T2](KayakWebsiteProject/KYK-1/test-case-KYK-T1.pdf) - Homepage - Top Menu testing
@@ -40,10 +37,8 @@ To cover all of the User Stories number of 13 Test Cases (TC) were created and e
 - 🧪 - [T12](KayakWebsiteProject/KYK-1/test-case-KYK-T1.pdf) - Mobile View - Search Results page
 - 🧪 - [T13](KayakWebsiteProject/KYK-1/test-case-KYK-T1.pdf) - Flight Price Alerts
 
-
-
 ## Bugs Found
-Following execution, there were reported 4 defects with a medium severity. 
+Following execution, there were reported 4 defects with medium severity. 
 
 - 🐞 - [KYK-8](KayakWebsiteProject/KYK-1/bug-report-KYK-8.pdf) - Incorrect social media link
 - 🐞 - [KYK-9](KayakWebsiteProject/KYK-2/bug-report-KYK-9.pdf) - No error message present on Search Flights Widget
@@ -52,9 +47,9 @@ Following execution, there were reported 4 defects with a medium severity.
 
 ## Testing Techniques used
 The following testing techniques were used:
-- Black-Box testing
-- Performance Testing
-- Change-related Testing
+- ⬛ - Black-Box testing
+- 📈 - Performance Testing
+- 🔄 - Change-related Testing
 
 ## Tools used
 - Atlassian Jira (https://jira.atlassian.com/)
